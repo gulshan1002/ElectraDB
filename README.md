@@ -29,4 +29,4 @@ This project is a **Database Management System** for an **Election Commission**,
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   
+   https://github.com/gulshan1002/ElectraDB.git
