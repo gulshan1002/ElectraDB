@@ -1,4 +1,4 @@
-# OOPS_Project
+# ElectraDB
 
 ## Project Overview
 This project is a **Database Management System** for an **Election Commission**, implemented using Java and MySQL. It demonstrates object-oriented programming concepts, effective database integration, and robust error-handling mechanisms.
